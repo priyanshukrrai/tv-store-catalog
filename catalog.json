@@ -13,6 +13,13 @@
       "description": "Ad-free YouTube client for Android TV",
       "apkUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/apks/smarttube.apk",
       "version": "27.20"
-    }
+    },
+    {
+  "name": "Tata Play Binge",
+  "packageName": "com.tatasky.binge",
+  "description": "30+ OTT apps in one — needs Tata Play login",
+  "apkUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/apks/tataplay-binge-tv.apk",
+  "version": "4.2.41"
+}
   ]
 }
