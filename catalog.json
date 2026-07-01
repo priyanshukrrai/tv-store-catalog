@@ -4,7 +4,6 @@
       "name": "VLC",
       "packageName": "org.videolan.vlc",
       "description": "Powerful open-source media player",
-      "iconUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/icons/vlc.png",
       "apkUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/apks/vlc.apk",
       "version": "3.6.0"
     },
@@ -12,7 +11,6 @@
       "name": "SmartTube",
       "packageName": "com.teamsmart.videomanager.tv",
       "description": "Ad-free YouTube client for Android TV",
-      "iconUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/icons/smarttube.png",
       "apkUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/apks/smarttube.apk",
       "version": "27.20"
     }
