@@ -4,7 +4,7 @@
       "name": "VLC",
       "packageName": "org.videolan.vlc",
       "description": "Powerful open-source media player",
-      "apkUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/apks/vlc.apk",
+      "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/VLC-Android-3.7.0-x86_64.apk",
       "version": "3.6.0"
     },
     {
