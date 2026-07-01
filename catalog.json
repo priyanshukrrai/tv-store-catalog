@@ -11,7 +11,7 @@
       "name": "SmartTube",
       "packageName": "com.teamsmart.videomanager.tv",
       "description": "Ad-free YouTube client for Android TV",
-      "apkUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/apks/smarttube.apk",
+      "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/SmartTube_stable_31.94_arm64-v8a.apk",
       "version": "27.20"
     },
     {
