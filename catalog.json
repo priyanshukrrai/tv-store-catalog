@@ -20,6 +20,13 @@
   "description": "30+ OTT apps in one — needs Tata Play login",
   "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/com.tatasky.binge_4.2.40-222_minAPI24.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk",
   "version": "4.2.41"
+},
+    {
+"name": "Jellyfin",
+"packageName": "org.jellyfin.androidtv",
+"description": "Free open-source media server — your own Netflix for home videos",
+"apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/jellyfin-androidtv-v0.19.9-debug.apk",
+"version": "0.19.9"
 }
   ]
 }
