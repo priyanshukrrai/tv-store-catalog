@@ -32,7 +32,7 @@
   "name": "NetMovie TV",
   "packageName": "com.techrai.netmovietv",
   "description": "Stream movies & TV shows from netmovie.site",
-  "apkUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/apks/netmovietv.apk",
+  "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/NetMovie.apk",
   "version": "1.0"
 }
   ]
