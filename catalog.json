@@ -27,6 +27,13 @@
 "description": "Free open-source media server — your own Netflix for home videos",
 "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/jellyfin-androidtv-v0.19.9-debug.apk",
 "version": "0.19.9"
+},
+    {
+  "name": "NetMovie TV",
+  "packageName": "com.techrai.netmovietv",
+  "description": "Stream movies & TV shows from netmovie.site",
+  "apkUrl": "https://raw.githubusercontent.com/priyanshukrrai/tv-store-catalog/main/apks/netmovietv.apk",
+  "version": "1.0"
 }
   ]
 }
