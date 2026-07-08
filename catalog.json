@@ -34,6 +34,13 @@
   "description": "Stream movies & TV shows from netmovie.site",
   "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/NetMovie.apk",
   "version": "1.0"
-}
+},
+    {
+  "name": "SoundWave TV",
+  "packageName": "com.techrai.soundwave",
+  "description": "Stream movies & TV shows from netmovie.site",
+  "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/com.soundwave.apk",
+  "version": "1.0"
+    }
   ]
 }
