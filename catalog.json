@@ -50,9 +50,9 @@
   "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/volume.fix.tv.new.apk"
 },
     {
-  "name": "Airtel Xstream",
+  "name": "Apptoid",
   "packageName": "tv.airtel.xstream.tvapp",
-  "description": "xstream",
+  "description": "Apptoid",
   "version": "1.0",
   "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/airtel-movies.apk"
     }
