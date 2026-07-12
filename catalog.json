@@ -55,6 +55,13 @@
   "description": "Apptoid",
   "version": "1.0",
   "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/airtel-movies.apk"
+    },
+    {
+  "name": "MeowfyTV",
+  "packageName": "tv.MeowfyTV.tvapp",
+  "description": "MeowfyTV",
+  "version": "1.0",
+  "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/MeowfyTV.v4.2.0.Android.TV.apk"
     }
   ]
 }
