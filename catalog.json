@@ -69,6 +69,13 @@
   "description": "MeowfyTV",
   "version": "1.0",
   "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/MeowfyTV.v4.1.0.apk"
+    },
+    {
+  "name": "iptv",
+  "packageName": "tv.iptv.tvapp",
+  "description": "iptv",
+  "version": "1.0",
+  "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/iptv-android-tv.apk"
     }
   ]
 }
