@@ -22,10 +22,10 @@
   "version": "4.2.41"
 },
     {
-"name": "Jellyfin",
-"packageName": "org.jellyfin.androidtv",
+"name": "CloudPlay",
+"packageName": "org.CloudPlay.androidtv",
 "description": "Free open-source media server — your own Netflix for home videos",
-"apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/jellyfin-androidtv-v0.19.9-debug.apk",
+"apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/CloudPlay.apk",
 "version": "0.19.9"
 },
     {
