@@ -61,14 +61,7 @@
   "packageName": "tv.MeowfyTV.tvapp",
   "description": "MeowfyTV",
   "version": "2.0",
-  "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/MeowfyTV.v4.1.0-tv.apk"
-    },
-    {
-  "name": "MeowfyTV old",
-  "packageName": "tv.MeowfyTV.tvapp",
-  "description": "MeowfyTV",
-  "version": "1.0",
-  "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/MeowfyTV.v4.1.0-tv.apk"
+  "apkUrl": "https://github.com/priyanshukrrai/tv-store-catalog/releases/download/v1/MeowfyTV-tv.apk"
     },
     {
   "name": "iptv",
